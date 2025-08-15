@@ -1,6 +1,6 @@
 from blabla import main
 
 
-
-print('hellOOO World?')
+print('Hello world!')
+main('Masha!')
 main('Sofia!')
