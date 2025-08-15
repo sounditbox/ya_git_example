@@ -1,2 +1,2 @@
 def f():
-    print('HELLO!')
+    print('HELLO!!!')
