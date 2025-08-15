@@ -1,3 +1,3 @@
+from blabla import main
 print('hello world')
-
-print('hi!')
+main('Ruslan')
